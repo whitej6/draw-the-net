@@ -1,0 +1,25 @@
+{
+    "cookiecutter": {
+        "codeowner_github_usernames": "@whitej6",
+        "full_name": "Jeremy White",
+        "email": "jeremy.lee.w@me.com",
+        "github_org": "whitej6",
+        "plugin_name": "draw_the_net",
+        "verbose_name": "Draw The Net",
+        "plugin_slug": "draw-the-net",
+        "project_slug": "nautobot-plugin-draw-the-net",
+        "repo_url": "https://github.com/whitej6/nautobot-plugin-draw-the-net",
+        "base_url": "draw-the-net",
+        "min_nautobot_version": "1.6.1",
+        "max_nautobot_version": "1.9999",
+        "nautobot_version": "1.6.1",
+        "camel_name": "DrawTheNet",
+        "project_short_description": "Draw The Net",
+        "version": "0.1.0",
+        "model_class_name": "None",
+        "open_source_license": "Apache-2.0",
+        "docs_base_url": "https://docs.nautobot.com",
+        "docs_app_url": "https://docs.nautobot.com/projects/draw-the-net/en/latest",
+        "_template": "git@github.com:networktocode-llc/cookiecutter-ntc.git"
+    }
+}
